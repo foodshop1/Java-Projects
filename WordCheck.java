@@ -49,7 +49,7 @@ public class WordCheck extends JFrame implements ActionListener
 
 
 
-        frame.getContentPane ().add (panel); // Using getContentPane().add() instead of add()
+        frame.getContentPane ().add (panel); 
 
         frame.setVisible (true);
     }
